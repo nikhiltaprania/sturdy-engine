@@ -63,3 +63,9 @@ Book Management is a dynamic web application built using Spring Core, Servlets, 
 2. **Run the application:**
 
    The application will start, and you can access it at http://localhost:8085.
+
+## Feedback and Contributions
+
+Feel free to provide feedback or contribute to the project by creating issues or pull requests. We appreciate your input and look forward to improving Code Genius together.
+
+Happy coding!
